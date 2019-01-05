@@ -1,0 +1,7 @@
+[package]
+name = "relational"
+version = "0.1.0"
+authors = ["kay"]
+edition = "2018"
+
+[dependencies]
